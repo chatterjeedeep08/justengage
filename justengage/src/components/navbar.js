@@ -28,7 +28,7 @@ const Navbar = () => {
               marginLeft: "1rem",
             }}
           >
-            LOGO
+            LOGO hello
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}></Box>
